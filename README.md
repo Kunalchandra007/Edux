@@ -6,7 +6,7 @@
 
 EduX is an intelligent, **AI-driven tutoring platform** designed to boost academic performance through personalized instruction powered by **LLMs**, **cognitive learning science**, and **real-time feedback loops**.
 
-GitHub Repo: [github.com/Kunalchandra007](https://github.com/Kunalchandra007](https://github.com/Kunalchandra007/Edux))
+GitHub Repo: [https://github.com/Kunalchandra007/Edux](https://github.com/Kunalchandra007/Edux)
 
 ---
 
@@ -77,6 +77,15 @@ ollama run mistral
 ```bash
 flask run
 ```
+## 💻 Tech Stack
+
+| Layer       | Tools Used                                 |
+|-------------|---------------------------------------------|
+| Backend     | Python, Flask, SQLite                      |
+| AI Models   | Mistral, Wizard-Math, Dolphin via Ollama   |
+| Frontend    | HTML, CSS, JavaScript                      |
+| Image/OCR   | OpenCV, Tesseract OCR, scikit-image        |
+
 📊 Dashboard & Analytics
 Track response accuracy and time
 
