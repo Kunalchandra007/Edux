@@ -7,6 +7,8 @@
 EduX is an intelligent, **AI-driven tutoring platform** designed to boost academic performance through personalized instruction powered by **LLMs**, **cognitive learning science**, and **real-time feedback loops**.
 
 GitHub Repo: [https://github.com/Kunalchandra007/Edux](https://github.com/Kunalchandra007/Edux)
+[🎥 Watch Demo](Edux.mp4)
+
 
 ---
 
